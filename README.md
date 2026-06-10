@@ -310,7 +310,7 @@ A possibly faster solution on Intel processors involves the [CMOV](http://www.ja
 
 ### Problem
 
-The access time of a table element can vary with its index (depending for example on whether a cache-miss has occured). This has for example been exploited in a series of cache-timing attacks on AES.
+The access time of a table element can vary with its index (depending for example on whether a cache-miss has occurred). This has for example been exploited in a series of cache-timing attacks on AES.
 
 ### Solution
 
